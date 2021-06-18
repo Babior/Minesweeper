@@ -1,0 +1,3 @@
+/Users/liza.babior/Desktop/PJATK/2 semester/PJC/Tutorials/PJC_Project_1/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liza.babior/Desktop/PJATK/2 semester/PJC/Tutorials/PJC_Project_1/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liza.babior/Desktop/PJATK/2 semester/PJC/Tutorials/PJC_Project_1/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
